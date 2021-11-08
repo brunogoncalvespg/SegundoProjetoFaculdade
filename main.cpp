@@ -14,7 +14,7 @@ int main(int argc, char** argv) {
 	
 	media = (nota1 + nota2) /2;
 	
-	printf("media = %2f", media);
+	printf("media = %f", media);
 	
 	return 0;
 }
